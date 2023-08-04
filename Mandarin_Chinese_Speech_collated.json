@@ -8,14 +8,14 @@
             "collectionId": "Mandarin_Chinese",
             "type": "Speech",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/Mandarin_Chinese/Mandarin_Chinese_Speech/207ea77d-7c6c-430d-b72b-d29e3e4595ed/207ea77d-7c6c-430d-b72b-d29e3e4595ed_zh-CN_Male.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Mandarin_Chinese/207ea77d-7c6c-430d-b72b-d29e3e4595ed_ma_Male.mp4"
         },
         {
             "id": "149a7b5d-40c6-4a0e-b2ad-855eff2bd5e7",
             "collectionId": "Mandarin_Chinese",
             "type": "Speech",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/Mandarin_Chinese/Mandarin_Chinese_Speech/149a7b5d-40c6-4a0e-b2ad-855eff2bd5e7/149a7b5d-40c6-4a0e-b2ad-855eff2bd5e7_zh-CN_Female.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Mandarin_Chinese/149a7b5d-40c6-4a0e-b2ad-855eff2bd5e7_ma_Female.mp4"
         }
     ]
 }
